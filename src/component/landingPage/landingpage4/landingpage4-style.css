@@ -1,0 +1,80 @@
+.landingpage4-main-container{
+    padding: 50px;
+}
+
+.landingpage-image{
+    width: 100%;
+}
+
+.modulepage4-heading{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: #000000;
+    font-family: 'Work Sans', sans-serif;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 28.15px;
+}
+
+.landingpage4-up-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.page4-content-side{
+    width: 60%;
+}
+
+.page4image-heading{
+    font-family: 'Work Sans', sans-serif;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 58px;
+  letter-spacing: -1%;
+  color: #09496D;
+}
+
+.page4description-context{
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    padding-top: 40px;
+    font-size: 16px;
+    line-height: 22.4px;
+    vertical-align: 0.125em;
+}
+
+.landingpage4-box{
+    width: 30%;
+    background-color: white;
+    padding: 20px;
+}
+
+
+
+.page4-box-heading{
+    padding-top: 20px;
+    font-family: 'Inter', sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24.2px;
+  vertical-align: 0.125em;
+  color: #2D2D2D;
+}
+
+
+.page4-description{
+    padding-top: 10px;
+    font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22.4px;
+  vertical-align: 0.125em;
+  color: rgba(0, 0, 0, 0.7);
+}
+
+.landingpage4-boxes-main-container{
+    display: flex;
+    gap: 30px;
+    justify-content: space-between;
+}

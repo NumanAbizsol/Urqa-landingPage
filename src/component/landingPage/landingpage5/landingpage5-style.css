@@ -1,0 +1,205 @@
+
+
+.landingpage5-main-container{
+    padding: 50px;
+}
+
+.landingpage5-container{
+    display: flex;
+    
+}
+
+.landingpage5-imagetag{
+    width: 100%s;
+}
+
+.img-container{
+    display: flex;
+    gap: 10px;
+}
+
+.content-btn{
+    display: flex;
+    padding-top: 15px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.review-box-main-div{
+  display: flex;
+  justify-content: space-between;
+  padding-top: 20px;
+}
+
+
+.landingpage5-right-heading{
+  color: #09496D;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 58px;
+  letter-spacing: -1%;
+  padding-top: 15px;
+}
+
+.landingpage-text{
+  padding-top: 40px;
+  color: #6B7280;
+  padding-bottom: 30px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 32.4px;
+
+}
+.box-container-landingpage5 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+.review-container--div{
+    width: 45%;
+    background-color: white;
+    padding: 25px;
+}
+
+  .conatiner-tag-img-text {
+    display: flex;
+    align-items: center;
+  }
+  
+  .conatiner-text-title {
+    padding-left: 20px;
+    font-family: 'ITCAvantGarde', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    vertical-align: 0.125em; /* Adjust vertical-align to match the cap height */
+    line-height: 24px;
+    color: #0F2650;
+  }
+  
+  .box-container-text-landingpage{
+    font-family: 'Poppins', sans-serif;
+    padding-top: 15px;
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 0.01em;
+    line-height: 24px;
+    color: #0F2650;
+  }
+
+
+.landingpage6-main-div{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+ padding: 50px 60px 50px 60px;
+ background-color: white;
+ gap: 20px;
+}
+
+.left-main-conatiner-page6{
+  width: 50%;
+  align-items: center;
+  height: 300px;
+}
+  
+.heading-div-page6{
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 58px;
+  letter-spacing: -1%;
+  color: #275F7E;
+}
+
+.title-div-page6{
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+  letter-spacing: 0; /* Reset letter spacing */
+  line-height: 32.4px;
+  color: #6B7280;
+}
+
+.description-div-page6{
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 0; /* Reset letter spacing */
+  line-height: 21.6px;
+  color: #6B7280;
+  padding-top: 20px;
+  padding-bottom: 20px
+}
+
+.lastlaningPage-main-div{
+  
+  padding: 40px 80px;
+  margin: 50px 0px;
+  display: flex;
+  width: 80%;
+  background-color: #10BAAC;
+  border-radius: 10px;
+}
+
+.heading-container-page7{
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 37.54px;
+  color: white;
+}
+
+.text-container-page7{
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: white;
+  width: 55%;
+  padding-top: 10px;
+}
+
+
+.input-text-field-page7{
+  width: 311px;
+  height: 50px;
+  border-radius: 6px;
+  border: none; /* You can replace #000 with your desired border color */
+  padding: 13px 21px;
+  color: #6B7280;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.notify-btn{
+  width: 125px;
+  height: 50px;
+  border-radius: 6px;
+  padding: 13px 25px;
+  background-color: #218C75;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.container-text-description-page7{
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  color: white;
+  padding-top: 10px;
+}
+
+.privacy-link-text{
+  font-weight: 500;
+  text-decoration: underline;
+  cursor: pointer;
+}

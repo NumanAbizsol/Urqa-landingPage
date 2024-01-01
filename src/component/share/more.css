@@ -1,0 +1,14 @@
+.more-btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    height: 46px;
+    border-radius: 6px;
+    gap: 4px;
+    background-color: white;
+    color: #10BAAC;
+    margin-top: 20px;
+    cursor: pointer;
+    border: 1px solid #10BAAC;
+}
